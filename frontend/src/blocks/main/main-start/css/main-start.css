@@ -1,0 +1,11 @@
+@import url(../__button/css/button.css);
+@import url(../__title/css/title.css);
+.main-start {
+  width: 100%;
+  height: 813px;
+  background-image: linear-gradient(90deg, black 0, rgba(0, 0, 0, 0) 130%), url(../../../../img/main-start/friied-eggs-with-vegetables.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+/*# sourceMappingURL=main-start.css.map */

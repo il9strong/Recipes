@@ -1,0 +1,35 @@
+@import url(/src/blocks/header/css/header.css);
+@import url(/src/blocks/footer/css/footer.css);
+@import url(/src/blocks/general/css/general.css);
+@import url(../ingredients-block/css/ingredients-block.css);
+html {
+  scroll-behavior: smooth; }
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+  src: url(/src/fonts/GothicA1-Regular.ttf); }
+
+.container {
+  max-width: 1145px;
+  margin: 0px auto; }
+
+.container-recipes {
+  display: flex;
+  flex-direction: column; }
+
+	@media (max-width: 1200px) {
+		
+	}
+	@media (max-width: 815px) {
+		.ingredients-block{
+			margin-top: 25%;
+		}
+	}
+	@media (max-width: 568px) {
+		
+	}
+
+/*# sourceMappingURL=ingredients.css.map */

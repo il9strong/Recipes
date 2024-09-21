@@ -1,0 +1,23 @@
+.reg-block__button {
+  padding: 5px;
+  height: 67px;
+  width: 356px;
+  font-size: 36px;
+  position: relative;
+  left: 39%; }
+
+@media (max-width: 1015px) {
+	.reg-block__button{
+		font-size: 28px;
+		width: 250px;
+	}
+}
+
+@media (max-width: 815px) {
+	.reg-block__button{
+		font-size: 24px;
+		width: 200px;
+	}
+}
+
+/*# sourceMappingURL=button.css.map */

@@ -1,0 +1,15 @@
+@import url(../__copyright/css/copyright.css);
+@import url(../__social/css/social.css);
+@import url(../__title/css/title.css);
+.footer {
+  position: absolute;
+  height: 221px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; }
+
+/*# sourceMappingURL=footer.css.map */

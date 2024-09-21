@@ -1,0 +1,24 @@
+@import url(/src/blocks/header/css/header.css);
+@import url(/src/blocks/footer/css/footer.css);
+@import url(../profile-block/css/profile-block.css);
+@import url(/src/blocks/general/css/general.css);
+html {
+  scroll-behavior: smooth; }
+
+.body-black {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+  background-color: black;
+  src: url(/src/fonts/GothicA1-Regular.ttf); }
+
+.container {
+  max-width: 1145px;
+  margin: 0px auto; }
+
+.container-profile {
+  display: flex;
+  flex-direction: column;}
+
+/*# sourceMappingURL=profile.css.map */

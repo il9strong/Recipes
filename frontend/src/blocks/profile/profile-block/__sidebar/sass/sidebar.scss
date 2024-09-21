@@ -1,0 +1,23 @@
+.profile-block__sidebar{
+	position: fixed;
+	width: 6%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0), black);
+	transition: 0.3s ease-out;
+	z-index: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	color: white;
+	padding: 2% 1%;
+	box-sizing: border-box;
+}
+
+.profile-block__sidebar:hover{
+	width: 40%;
+	transition: 0.3s ease-out;
+	z-index: 1;
+	backdrop-filter: blur(5px);
+	background-color: rgba($color: #000000, $alpha: 0.5);
+}
+

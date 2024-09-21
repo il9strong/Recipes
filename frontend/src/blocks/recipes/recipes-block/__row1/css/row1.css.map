@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EACnB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,WAAW,EAAE,MAAM;EACnB,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,aAAa;EAC9B,aAAa,EAAE,IAAI",
+"sources": ["../sass/row1.scss"],
+"names": [],
+"file": "row1.css"
+}

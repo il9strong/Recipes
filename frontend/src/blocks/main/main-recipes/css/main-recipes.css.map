@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,uCAA+B;AAC/B,qCAA6B;AAErC,aAAa;EACZ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,gIAA+H;EACjJ,mBAAmB,EAAE,aAAa;EAClC,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK",
+"sources": ["../sass/main-recipes.scss"],
+"names": [],
+"file": "main-recipes.css"
+}

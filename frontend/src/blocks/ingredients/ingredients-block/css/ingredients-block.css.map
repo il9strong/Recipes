@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,qCAA6B;AAC7B,mCAA2B;AAC3B,uCAA+B;AAC/B,mCAA2B;AAEnC,kBAAkB;EACjB,UAAU,EAAE,GAAG;EACf,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,MAAM,EAAE,WAAW",
+"sources": ["../sass/ingredients-block.scss"],
+"names": [],
+"file": "ingredients-block.css"
+}

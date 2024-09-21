@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,4BAA4B;EAC3B,WAAW,EAAE,EAAE",
+"sources": ["../sass/profile-text.scss"],
+"names": [],
+"file": "profile-text.css"
+}

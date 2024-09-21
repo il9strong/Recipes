@@ -1,0 +1,23 @@
+@import url(/blocks/header/css/header.css);
+@import url(/blocks/footer/css/footer.css);
+@import url(../reg-block/css/reg-block.css);
+@import url(/blocks/general/css/general.css);
+
+html{
+	scroll-behavior: smooth;
+}
+
+body{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	background-color: black;
+	src: url(/fonts/GothicA1-Regular.ttf);
+}
+
+.container{
+	// max-width: 1145px;
+	margin: 0px auto;
+	padding: 0px 15px;
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,yCAAiC;AACjC,qCAA6B;AAC7B,iDAAyC;AACzC,qCAA6B;AAC7B,qCAA6B;AAC7B,qCAA6B;AAErC,aAAa;EACZ,MAAM,EAAE,WAAW;EACnB,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,GAAG;EACf,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,MAAM",
+"sources": ["../sass/recipe-block.scss"],
+"names": [],
+"file": "recipe-block.css"
+}

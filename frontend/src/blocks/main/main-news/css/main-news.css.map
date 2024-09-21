@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,qCAA6B;AAErC,UAAU;EACT,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,WAAW;EACnB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,cAAc,EAAE,MAAM",
+"sources": ["../sass/main-news.scss"],
+"names": [],
+"file": "main-news.css"
+}

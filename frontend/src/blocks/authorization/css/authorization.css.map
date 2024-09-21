@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,0CAAkC;AAClC,0CAAkC;AAClC,6CAAqC;AACrC,4CAAoC;AAE5C,IAAI;EACH,eAAe,EAAE,MAAM;;AAGxB,IAAI;EACH,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,cAAc;EAC3B,gBAAgB,EAAE,KAAK;EACvB,GAAG,EAAE,gCAAgC;;AAGtC,UAAU;EAET,MAAM,EAAE,QAAQ;EAChB,OAAO,EAAE,QAAQ",
+"sources": ["../sass/authorization.scss"],
+"names": [],
+"file": "authorization.css"
+}

@@ -1,0 +1,19 @@
+.main-recipes__button{
+	display: flex;
+	position: relative;
+	// left: -18%;
+	// top: 17%;
+	flex-direction: row;
+	text-decoration: none;
+	width: 235px;
+	transform: translate(50%, 660%);
+}
+.main-recipes__button-icon{
+	transform: translateY(10%);
+}
+.main-recipes__button-text{
+	margin-right: 15px;
+}
+.main-recipes__button:hover .main-recipes__button-icon{
+	transform: translate(40%, 10%);
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,uCAA+B;AAC/B,qCAA6B;AAErC,iBAAiB;EAChB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,gGAA+F;EACjH,mBAAmB,EAAE,aAAa;EAClC,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK",
+"sources": ["../sass/main-ingredients.scss"],
+"names": [],
+"file": "main-ingredients.css"
+}

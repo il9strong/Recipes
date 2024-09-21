@@ -1,0 +1,11 @@
+.profile-block__profile{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	overflow: hidden;
+	// margin-bottom: 6%;
+}
+
+.profile-block__profile img{
+	transform: translateX(-2%);
+}

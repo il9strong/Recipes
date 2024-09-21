@@ -1,0 +1,22 @@
+.auth-block__button {
+  padding: 5px;
+  height: 67px;
+  width: 206px;
+  font-size: 36px;
+  position: relative;
+  left: 39%; }
+
+@media (max-width: 1015px) {
+	.auth-block__button{
+		font-size: 28px;
+		width: 180px;
+	}
+}
+	
+@media (max-width: 815px) {
+	.auth-block__button{
+		font-size: 24px;
+		width: 140px;
+	}
+}
+/*# sourceMappingURL=button.css.map */

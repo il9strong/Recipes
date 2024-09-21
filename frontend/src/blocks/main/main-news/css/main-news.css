@@ -1,0 +1,9 @@
+@import url(../__title/css/title.css);
+.main-news {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+
+/*# sourceMappingURL=main-news.css.map */

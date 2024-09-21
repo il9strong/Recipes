@@ -1,0 +1,46 @@
+.profile-block__forms-for-product > div{
+	margin-bottom: 2%;
+}
+
+.profile-block__forms-for-product label{
+	font-size: 32px;
+	margin-right: 1%;
+}
+
+.profile-block__forms-for-product input{
+	width: 100%;
+	text-align: left;
+	font-size: 32px;
+	border-radius: 50px;
+	padding: 5px 20px;
+	background-color: rgba(255, 255, 255, 0.336);
+	border: 2px solid white;
+	color: white;
+	transition: all 0.3s;
+}
+
+.profile-block__forms-for-product input:hover{
+	background-color: rgba(255, 255, 255, 0.423);
+}
+
+.profile-block__forms-for-product input:focus{
+	background-color: rgba(255, 255, 255, 0.423);
+}
+
+.profile-block__forms-for-product button{
+	font-size: 32px;
+}
+
+@media (max-width: 815px) {
+	.profile-block__forms-for-product label{
+		font-size: 24px;
+	}
+	
+	.profile-block__forms-for-product input{
+		font-size: 24px;
+	}
+	
+	.profile-block__forms-for-product button{
+		font-size: 24px;
+	}
+}

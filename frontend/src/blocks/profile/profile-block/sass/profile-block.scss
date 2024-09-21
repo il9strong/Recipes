@@ -1,0 +1,24 @@
+@import url(../__sidebar/css/sidebar.css);
+@import url(../__title/css/title.css);
+@import url(../__profile/css/profile.css);
+@import url(../__profile-text/css/profile-text.css);
+@import url(../__forms/css/forms.css);
+@import url(../__buttons/css/buttons.css);
+
+.profile-block{
+	height: fit-content;
+	padding-top: 10%;
+}
+.profile-block::before{
+	content: '';
+	background-image: url(/img/auth-reg/top-view-bowl-with-winter-tomato-soup-toast.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: blur(120px);
+	position: fixed;
+	left: 0; right: 0;
+	top: 0; bottom: 50px;
+	z-index: -1;
+	margin: 0;
+}

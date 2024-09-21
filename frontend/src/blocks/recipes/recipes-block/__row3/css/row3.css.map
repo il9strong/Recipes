@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EACnB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,eAAe,EAAE,aAAa;EAC9B,aAAa,EAAE,IAAI;;AAGpB,yBAAyB;EACxB,KAAK,EAAE,GAAG",
+"sources": ["../sass/row3.scss"],
+"names": [],
+"file": "row3.css"
+}

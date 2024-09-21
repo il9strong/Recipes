@@ -1,0 +1,48 @@
+@import url(/src/blocks/header/css/header.css);
+@import url(/src/blocks/footer/css/footer.css);
+@import url(/src/blocks/general/css/general.css);
+@import url(../recipes-block/css/recipes-block.css);
+html {
+  scroll-behavior: smooth; }
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Century Gothic;
+  src: url(/src/fonts/GothicA1-Regular.ttf); 
+	min-height: 80vh;}
+
+.container-rec {
+  max-width: 1145px;
+  margin: 0px auto;
+  height: fit-content; }
+
+.container-recipes {
+  display: flex;
+  flex-direction: column;
+  height: fit-content; }
+
+	@media (max-width: 1200px) {
+		.recipes-block__row1, .recipes-block__row2, .recipes-block__row3{
+			width: 98%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	@media (max-width: 815px) {
+		.recipes-block__sorting-by{
+			font-size: 32px;
+			margin-bottom: 1%;
+		}
+	}
+	@media (max-width: 568px) {
+		.recipes-block__select1, .recipes-block__select2{
+			font-size: 20px;
+		}
+		.reviews-section .no-entry, .reviews-section .no-reviews{
+			font-size: 18px;
+		}
+	}
+
+/*# sourceMappingURL=recipes.css.map */

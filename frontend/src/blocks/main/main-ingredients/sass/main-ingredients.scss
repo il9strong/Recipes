@@ -1,0 +1,11 @@
+@import url(../__button/css/button.css);
+@import url(../__title/css/title.css);
+
+.main-ingredients{
+	width: 100%;
+	height: 710px;
+	background-image: linear-gradient(270deg, black 0,rgba(0, 0, 0, 0) 100%), url(/img/main-products/ingredients.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}

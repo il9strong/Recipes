@@ -1,0 +1,11 @@
+.profile-block__profile {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  overflow: hidden;
+  margin-bottom: 5%; }
+
+.profile-block__profile img {
+  width: 10%;}
+
+/*# sourceMappingURL=profile.css.map */

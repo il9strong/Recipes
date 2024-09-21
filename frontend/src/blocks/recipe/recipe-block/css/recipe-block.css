@@ -1,0 +1,61 @@
+@import url(../__picture/css/picture.css);
+@import url(../__item1/css/item1.css);
+@import url(../__description/css/description.css);
+@import url(../__title/css/title.css);
+@import url(../__table/css/table.css);
+@import url(../__item2/css/item2.css);
+.recipe-block {
+  height: fit-content;
+  margin-bottom: 20%;
+  margin-top: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+
+.reviews-section h3{
+	font-size: 32px;
+	font-weight: 200;
+}
+
+.reviews-section .no-entry, .reviews-section .no-reviews{
+	font-size: 24px;
+}
+
+.reviews-section textarea{
+	width: 100%;
+	font-size: 24px;
+	padding: 1%;
+	resize: none;
+}
+
+.reviews-section button{
+	font-size: 24px;
+	padding: 1%;
+	margin-top: 1%;
+}
+
+.reviews-section .review{
+	margin-top: 2%;
+	border-bottom: 1px solid gray;
+	padding-bottom: 1%;
+}
+
+.reviews-section .review h4{
+	font-size: 22px;
+}
+
+.reviews-section .review p{
+	font-size: 20px;
+}
+
+.reviews-section .review small{
+	font-size: 18px;
+}
+
+@media (max-width: 568px) {
+	.reviews-section .no-entry, .reviews-section .no-reviews{
+		font-size: 18px;
+	}
+}
+
+/*# sourceMappingURL=recipe-block.css.map */

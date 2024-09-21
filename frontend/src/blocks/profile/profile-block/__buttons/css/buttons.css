@@ -1,0 +1,29 @@
+.profile-block__sidebar .profile-block__buttons {
+  display: flex;
+  flex-direction: column; }
+
+.profile-block__sidebar button {
+  margin-bottom: 5%;
+  font-family: Century Gothic;
+  src: url(/src/fonts/GothicA1-Regular.ttf);
+  overflow: hidden;
+  white-space: nowrap;
+  background: none;
+  border: 3px solid white;
+  border-radius: 50px;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease; 
+	padding: 1% 0;}
+
+.profile-block__sidebar button:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s ease; }
+
+.profile-block__sidebar .profile-block__products{
+	display: flex;
+	flex-direction: column;
+}
+
+/*# sourceMappingURL=buttons.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oBAAoB;EACnB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,WAAW;EACnB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM",
+"sources": ["../sass/item2.scss"],
+"names": [],
+"file": "item2.css"
+}

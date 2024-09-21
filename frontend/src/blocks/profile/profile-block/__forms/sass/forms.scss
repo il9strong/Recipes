@@ -1,0 +1,45 @@
+.profile-block__forms{
+	display: none;
+}
+
+.profile-block__sidebar:hover .profile-block__forms{
+	display: flex;
+	flex-direction: column;
+	transition: 1s ease;
+}
+
+.profile-block__sidebar form{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 5%;
+}
+
+.profile-block__sidebar .label{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 37%;
+	border: 3px solid white;
+	border-radius: 50px;
+	transition: 1s;
+	overflow: hidden;
+}
+
+.profile-block__sidebar label{
+	white-space: nowrap;
+}
+
+.profile-block__forms input{
+	border-radius: 50px;
+	background-color: rgba($color: #fff, $alpha: 0.6);
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	width: 57%;
+	text-overflow: ellipsis;
+	box-sizing: border-box;
+	padding: 0 5%;
+	font-family: Century Gothic;
+	src: url(/fonts/GothicA1-Regular.ttf);
+}

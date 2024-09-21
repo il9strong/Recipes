@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iBAAiB;EAChB,KAAK,EAAE,KAAK;EACZ,cAAc,EAAE,SAAS;EACzB,MAAM,EAAE,aAAa",
+"sources": ["../sass/title.scss"],
+"names": [],
+"file": "title.css"
+}

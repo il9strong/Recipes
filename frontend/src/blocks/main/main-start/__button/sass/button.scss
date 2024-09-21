@@ -1,0 +1,16 @@
+.main-start__button{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	transform: translate(50%, 260%);
+	text-decoration: none;
+	box-sizing: content-box;
+	width: 235px;
+}
+.main-start__button-text{
+	margin-bottom: 15px;
+}
+.main-start__button:hover .main-start__button-icon{
+	transform: translateY(40%);
+}

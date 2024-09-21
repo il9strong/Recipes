@@ -1,0 +1,11 @@
+@import url(../__title/css/title.css);
+@import url(../__row1/css/row1.css);
+@import url(../__button/css/button.css);
+@import url(../__row2/css/row2.css);
+
+.ingredients-block{
+	margin-top: 15%;
+	display: flex;
+	flex-direction: column;
+	height: fit-content;
+}

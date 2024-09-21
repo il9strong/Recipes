@@ -1,0 +1,35 @@
+.head__links {
+  list-style: none;
+  display: flex;
+  justify-content: space-between; }
+
+.head__link {
+  position: relative;
+  color: white;
+  text-decoration: none;
+  flex: 1 1 auto;
+  margin: 0 20px 0 0;
+  font-size: 24px; }
+
+.head__link_black {
+  color: black; }
+
+.head__link::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 1.5px;
+  background-color: white; }
+
+.head__link_black::before {
+  background-color: black; }
+
+.head__link:hover:before {
+  width: 100%; }
+
+.head__link::before {
+  transition: width 0.35s; }
+
+/*# sourceMappingURL=links.css.map */

@@ -1,0 +1,80 @@
+/* .profile-block__sidebar:hover .profile-block__forms, .profile-block__forms-for-product {
+  display: flex;
+  flex-direction: column;
+  transition: 1s ease; } */
+
+.profile-block__forms form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.profile-block__forms-rows{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 5%;
+}
+
+.profile-block__forms-buttons{
+	display: flex;
+	flex-direction: column;
+}
+
+.profile-block__forms .label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 37%;
+  border: 3px solid white;
+  border-radius: 50px;
+  transition: 1s;
+  overflow: hidden; }
+
+.profile-block__forms-for-product .label {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	border: 3px solid white;
+	border-radius: 50px;
+	transition: 1s;
+	overflow: hidden;
+	margin-bottom: 5%;
+	padding: 1% 0; }
+
+.profile-block__forms label {
+  white-space: nowrap; }
+
+.profile-block__forms input {
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.336);
+  border: 2px solid white;
+  color: white;
+  text-align: center;
+  width: 57%;
+  text-overflow: ellipsis;
+  box-sizing: border-box;
+  padding: 1% 5%;
+  font-family: Century Gothic;
+  src: url(/src/fonts/GothicA1-Regular.ttf); }
+
+.profile-block__forms-for-product input {
+	border-radius: 50px;
+	background-color: rgba(255, 255, 255, 0.336);
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	width: 100%;
+	text-overflow: ellipsis;
+	box-sizing: border-box;
+	padding: 1% 5%;
+	font-family: Century Gothic;
+	src: url(/src/fonts/GothicA1-Regular.ttf);
+	margin-bottom: 5%; }
+
+.profile-block__forms-for-product button{
+	width: 100%;
+}
+
+/*# sourceMappingURL=forms.css.map */
